@@ -39,16 +39,19 @@ Serve the project locally (you can just open index.html in a browser, or use a s
 
 Allow location access when prompted. The dashboard should load your current weather-condition theme.
 
-📁 Project Structure
+# 📁 Project Structure
+```
 /Dynamic-Weather-Dashboard  
 │  
 ├── index.html       ← Main HTML file  
 ├── style.css        ← Stylesheet (animations, themes, layout)  
 ├── script.js        ← Main JavaScript (API calls, geolocation, dynamic updates)  
-└── access/icons/    ← Icon and asset folder  
-Note: Adjust folder names if you have additional assets or sub-folders.
+└── access/icons/    ← Icon and asset folder
+```
 
-🎨 Theme & UI
+# Note: Adjust folder names if you have additional assets or sub-folders.
+
+# 🎨 Theme & UI
 Neon/futuristic aesthetic: vibrant colours, glow effects, smooth transitions
 
 Weather conditions trigger background/theme changes — e.g., clear sky shows bright neon sun animation, rain shows falling rain effect.
