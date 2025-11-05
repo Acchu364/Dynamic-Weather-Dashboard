@@ -28,9 +28,11 @@ Geolocation API (browser)
 
 # 🔧 Installation & Setup
 Clone the repository:
-
-git clone https://github.com/Acchu364/Dynamic-Weather-Dashboard.git  
-cd Dynamic-Weather-Dashboard  
+```
+git clone 
+https://github.com/Acchu364/Dynamic-Weather-Dashboard.git  
+cd Dynamic-Weather-Dashboard
+```
 Obtain a weather API key (e.g., from OpenWeatherMap or similar service).
 
 In script.js, locate the API-key placeholder and replace with your own key.
